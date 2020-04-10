@@ -1,18 +1,1 @@
 INDEX VERSION 1.131+/home/pratap_dhal/Spring_blackjack/blackjack/.metadata/.plugins/org.eclipse.jdt.core
-2321674715.index
-1011745702.index
-3289148766.index
-3359596054.index
-2210574177.index
-2618949232.index
-809508127.index
-145958418.index
-3991781016.index
-1244824631.index
-3416229598.index
-1481625263.index
-3367706597.index
-4032412845.index
-855192757.index
-2176065607.index
-1586607762.index
